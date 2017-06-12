@@ -1,0 +1,32 @@
+[
+  {
+    "name": "es6",
+    "link": "http://es6-features.org/#Constants",
+    "logo": "./es6-seeklogo.com.svg"
+  },
+  {
+    "name": "express",
+    "link": "https://expressjs.com",
+    "logo": "./resources/express-seeklogo.com.svg"
+  },
+  {
+    "name": "gulp",
+    "link": "https://gulpjs.com",
+    "logo": "./resources/gulp-seeklogo.com.svg"
+  },
+  {
+    "name": "github",
+    "link": "https://github.com",
+    "logo": "./resources/github-seeklogo.com.svg"
+  },
+  {
+    "name": "HTML 5",
+    "link": "https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5",
+    "logo": "./resources/html5-with-wordmark-black-white.svg"
+  },
+  {
+    "name": "CSS 3",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3",
+    "logo": "./resources/html-technology-class-icon-styling.svg"
+  }
+]
